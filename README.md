@@ -1,10 +1,9 @@
-# Python-Project    (Voxie)
-Name is chosen at random
+# Python-Project ( Snake Game + Quiz + TempFileCleaner + Calculater + HomePage with Clock) Easy and Simple
+
+A Combination of simple python mini projects.
 
 Using Library - Tkinter and PyGame
 Further need - Time, os, random, subprocess
-
-I made this project in my second semester so if you face any issues please let me know.
 
 Plan:
 
